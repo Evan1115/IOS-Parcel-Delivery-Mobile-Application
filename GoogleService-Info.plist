@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>677415277218-idkere0a8vpd836fi4nlphp41mki7tac.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.677415277218-idkere0a8vpd836fi4nlphp41mki7tac</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB-qSSnqZvh5IdOBk2GfImv778AJWMPycg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>677415277218</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>joramco.ParcelDelivery</string>
+	<key>PROJECT_ID</key>
+	<string>speed-delivery-1b601</string>
+	<key>STORAGE_BUCKET</key>
+	<string>speed-delivery-1b601.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:677415277218:ios:4358cbad6ad45115e13dfb</string>
+	<key>DATABASE_URL</key>
+	<string>https://speed-delivery-1b601.firebaseio.com</string>
+</dict>
+</plist>
